@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/The_smart_planner.iml" filepath="$PROJECT_DIR$/.idea/modules/The_smart_planner.iml" group="The_smart_planner" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="The_smart_planner/app" />
+    </modules>
+  </component>
+</project>
